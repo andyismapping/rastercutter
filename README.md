@@ -1,3 +1,3 @@
 # rastercutter
 
-personal project -
+personal project --
